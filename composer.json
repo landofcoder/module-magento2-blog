@@ -1,11 +1,11 @@
 {
-    "name": "venustheme/module-blog",
+    "name": "landofcoder/module-ves-blog",
     "description": "Advanced blog extension for magento 2 system",
     "require": {
-        "venustheme/module-all":"1.0.*"
+        "landofcoder/module-ves-all":"1.0.*"
     },
     "type": "magento2-module",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
